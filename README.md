@@ -18,7 +18,7 @@ No meu tempo livre eu gosto:
 • 🎞️🍿 - Assistir filmes.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ocarlosmonteiro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ocarlosrenanmonteiro/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ocarlosmonteiro)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ocarlosmonteiro/)
 
