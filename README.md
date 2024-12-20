@@ -6,7 +6,7 @@
 </p>
 Sou de São José dos Campos, atualmente estudante da UNIVESP, cursando Bacharelado em Tecnologia da Informação. Ex aluno da instituição ETEC Ilza Nascimento Pintus onde tive contato pela primeira vez com algoritimos, linguagens de programação e tecnologias de desenvolvimento, sendo C a primeira a escrever o meu primeiro "Hello world!" e a exercitar a lógica de programação, ao decorrer do curso tive contato com outras tecnologias sendo elas: Mysql, HTML, CSS, PHP e JAVA. Desenvolvido um protótipo de plataforma E-Commerce como trabalho de conclusão de curso.
 
-#### Atualmente estudando e desenvolvendo com as tecnologias .Net, C#, Mysql, HTML e CSS.
+#### Atualmente estudando e desenvolvendo com as tecnologias Angular, JavaScript, HTML, CSS, SQL e AWS.
 <br>
 
 No meu tempo livre eu gosto:
