@@ -4,7 +4,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ocarlosmonteiro?label=Followers&color=red&style=flat">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ocarlosmonteiro?label=Stars&color=green&style=flat">  
 </p>
-Sou de São José dos Campos, atualmente estudante da UNIVESP, cursando Bacharelado em Tecnologia da Informação. Ex aluno da instituição ETEC Ilza Nascimento Pintus onde tive contato pela primeira vez com algoritimos, linguagens de programação e tecnologias de desenvolvimento, sendo C a primeira a escrever o meu primeiro "Hello world!" e a exercitar a lógica de programação, ao decorrer do curso tive contato com outras tecnologias sendo elas: Mysql, HTML, CSS, PHP e JAVA. Desenvolvido um protótipo de plataforma E-Commerce como trabalho de conclusão de curso.
+Atuei como suporte técnico, aprimorando minhas habilidades com softwares e equipamentos de controle de acesso, gestão e apuração de pontos. Atualmente estou em transição de carreira para o desenvolvimento Back-End, atuando como freelancer. Minhas especialidades incluem PHP, Javascript, HTML, CSS e MySQL.
 
 #### Atualmente estudando e desenvolvendo com as tecnologias React, Node JS, HTML, CSS, SQL e AWS.
 <br>
