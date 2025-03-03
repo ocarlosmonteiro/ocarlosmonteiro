@@ -23,12 +23,13 @@ No meu tempo livre eu gosto:
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ocarlosmonteiro/)
 
 ## Habilidades
+
+![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=blue)
+![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=blue)
+![Laragon](https://img.shields.io/badge/Laragon-000000?style=for-the-badge&logo=Laragon&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=blue)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=orange)
