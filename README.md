@@ -6,7 +6,7 @@
 </p>
 Atuei como suporte técnico, aprimorando minhas habilidades com softwares e equipamentos de controle de acesso, gestão e apuração de pontos. Atualmente estou em transição de carreira para o desenvolvimento Back-End, atuando como freelancer. Minhas especialidades incluem PHP, Javascript, HTML, CSS e MySQL.
 
-#### Atualmente estudando e desenvolvendo com as tecnologias React, Node JS, HTML, CSS, SQL e AWS.
+#### Atualmente estudando e desenvolvendo com as tecnologias PHP, Node JS, HTML, CSS e SQL.
 <br>
 
 No meu tempo livre eu gosto:
