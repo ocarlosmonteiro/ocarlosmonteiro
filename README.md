@@ -4,9 +4,9 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ocarlosmonteiro?label=Followers&color=red&style=flat">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ocarlosmonteiro?label=Stars&color=green&style=flat">  
 </p>
-Atuei como suporte técnico, aprimorando minhas habilidades com softwares e equipamentos de controle de acesso, gestão e apuração de pontos. Atualmente estou em transição de carreira para o desenvolvimento Back-End, atuando como freelancer. Minhas especialidades incluem PHP, Javascript, HTML, CSS e MySQL.
+Atuei como suporte técnico, aprimorando minhas habilidades com softwares e equipamentos de controle de acesso, gestão e apuração de pontos. Atualmente estou em transição de carreira para o desenvolvimento Back-End, atuando como freelancer. Minhas especialidades incluem Python, Javascript, HTML, CSS e MySQL.
 
-#### Atualmente estudando e desenvolvendo com as tecnologias PHP, Node JS, HTML, CSS e SQL.
+#### Atualmente estudando e desenvolvendo com as tecnologias Python, Node JS, HTML, CSS e SQL.
 <br>
 
 No meu tempo livre eu gosto:
@@ -23,20 +23,18 @@ No meu tempo livre eu gosto:
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ocarlosmonteiro/)
 
 ## Habilidades
-
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=blue)
-![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=blue)
-![Laragon](https://img.shields.io/badge/Laragon-000000?style=for-the-badge&logo=Laragon&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue)
-![Vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=orange)
 
 
 ## GitHub Status
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ocarlosmonteiro&bg_color=000&border_color=DAA520&title_color=DAA520&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ocarlosmonteiro&bg_color=000&border&title_color=FFF&text_color=FFF)
 
 ## Minhas Contribuições
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocarlosmonteiro&theme=transparent&bg_color=000&border_color=DAA520&show_icons=true&icon_color=DAA520&title_color=DAA520&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocarlosmonteiro&theme=transparent&bg_color=000&border__icons=true&icon_color=00FF7F&title_color=00FF7F&text_color=FFF)
