@@ -4,9 +4,9 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ocarlosmonteiro?label=Followers&color=red&style=flat">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ocarlosmonteiro?label=Stars&color=green&style=flat">  
 </p>
-Atuei como suporte técnico, aprimorando minhas habilidades com softwares e equipamentos de controle de acesso, gestão e apuração de pontos. Atualmente estou em transição de carreira para o desenvolvimento Back-End, atuando como freelancer. Minhas especialidades incluem Python, Javascript, HTML, CSS e MySQL.
+Atuei como suporte técnico, aprimorando minhas habilidades com softwares e equipamentos de controle de acesso, gestão e apuração de pontos. Atualmente estou em transição de carreira para o desenvolvimento Back-End, atuando como freelancer. Minhas especialidades incluem Python, Node JS, HTML, CSS e SQL.
 
-#### Atualmente estudando e desenvolvendo com as tecnologias Python, Node JS, HTML, CSS e SQL.
+#### Atualmente estudando e desenvolvendo com as tecnologias Python, Node JS e SQL.
 <br>
 
 No meu tempo livre eu gosto:
@@ -25,7 +25,6 @@ No meu tempo livre eu gosto:
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)
