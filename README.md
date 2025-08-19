@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Carlos Monteiro
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ocarlosmonteiro" alt="Visualizações de Perfil" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/ocarlosmonteiro?label=Followers&color=red&style=flat"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/ocarlosmonteiro?label=Stars&color=green&style=flat"> </p>
 
-ou apaixonado por desenvolvimento Web, com foco em Back-End, e atualmente curso Bacharelado em Tecnologia da Informação na UNIVESP. Desde meu primeiro "Hello World" em C, venho construindo uma base sólida em linguagens como Node.js, SQL, PHP, HTML e CSS aplicando essas tecnologias para criar soluções modernas que otimizam processos e geram valor para projetos.
+Sou apaixonado por desenvolvimento Web, com foco em Back-End, e atualmente curso Bacharelado em Tecnologia da Informação na UNIVESP. Desde meu primeiro "Hello World" em C, venho construindo uma base sólida em linguagens como Node.js, SQL, PHP, HTML e CSS aplicando essas tecnologias para criar soluções modernas que otimizam processos e geram valor para projetos.
 
 💻 Minhas especialidades incluem: Node.js, SQL, PHP, HTML e CSS.
 📚 Atualmente estou estudando e desenvolvendo projetos com Node.js, PHP e SQL.
@@ -12,7 +12,6 @@ ou apaixonado por desenvolvimento Web, com foco em Back-End, e atualmente curso 
 
 🎮 Fã de games — principalmente Pokémon, FIFA, NBA 2K e F1.
 
-🎞️🍿 Adoro assistir bons filmes.
 
 
 
